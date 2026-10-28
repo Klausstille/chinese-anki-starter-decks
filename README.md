@@ -12,9 +12,12 @@ Each word has pinyin, a short definition, notes, four example sentences with
 pinyin and English translation, and audio for the word and every sentence.
 Version 2 was reviewed card by card (176 corrections; the full list is
 attached to the [v2 release](https://github.com/Klausstille/chinese-anki-starter-decks/releases/tag/hsk1-v2)).
+Version 3 has the new card design that matches the app: bigger Chinese,
+clear sentence blocks, small speaker buttons, and it follows Anki's light and
+dark mode. The cards' content is the same as in v2.
 
 **Download:** [hsk1-starter.apkg](https://github.com/Klausstille/chinese-anki-starter-decks/releases/latest/download/hsk1-starter.apkg)
 
 **Import:** open Anki → *File → Import…* → choose the downloaded file. The cards
 appear in the deck `Mandarin: Vocabulary::HSK1`. Importing a newer version
-updates the cards in place, without duplicates.
+updates the cards and their design in place, without duplicates.
